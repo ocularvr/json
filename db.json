@@ -1,0 +1,21 @@
+{
+  "clients": [
+    {
+      "password": "naji2020",
+      "isActive": true,
+      "username": "Naji",
+      "gender": "male",
+      "email": "naji@ourworld.com",
+
+    },
+    {
+      "password": "mario20202020",
+      "isActive": true,
+      "username": "Mario",
+      "gender": "male",
+      "email": "gay@ourworld.com",
+
+    }
+  ]
+}
+
